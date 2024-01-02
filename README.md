@@ -6,9 +6,10 @@
 </p>
 <hr>
 </br>
-
-| <img src="https://github-readme-stats.vercel.app/api?username=bsy0317&count_private=true&show_icons=true&hide=contribs,prs&theme=vue&include_all_commits=true" alt="github-readme-stats" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsy0317&layout=compact&theme=vue&langs_count=6" />	|
-|---	                                                                                                                  |---	                                                   
+<div style="display: inline-block;text-align: center;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsy0317&count_private=true&show_icons=true&hide=contribs,prs&theme=vue&include_all_commits=true" alt="github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsy0317&layout=compact&theme=vue&langs_count=6" />
+</div>
 
 <br/>
 <div align="center">
